@@ -1,0 +1,13 @@
+Compile o programa:
+
+gcc driver.c task.c schedule_rr_p.c schedule_edf.c -o driver
+
+
+Execute o programa:
+
+./driver
+
+
+
+
+
